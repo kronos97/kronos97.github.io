@@ -159,7 +159,7 @@ URL: https://themeforest.net/user/ahmedbeheiry
 			number: 6850	// Change to your number			
 		}, 2200);
 		$("#number_2").animateNumber({
-			number: 120		// Change to your number	
+			number: 18		// Change to your number	
 		}, 2200);
 		$("#number_3").animateNumber({
 			number: 345		// Change to your number
