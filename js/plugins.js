@@ -156,13 +156,13 @@ URL: https://themeforest.net/user/ahmedbeheiry
 	----------------------------------------------------- */
 	$("#facts").appear(function() {
 		$("#number_1").animateNumber({
-			number: 6850	// Change to your number			
+			number: 17950	// Change to your number			
 		}, 2200);
 		$("#number_2").animateNumber({
-			number: 18		// Change to your number	
+			number: 26		// Change to your number	
 		}, 2200);
 		$("#number_3").animateNumber({
-			number: 345		// Change to your number
+			number: 444		// Change to your number
 		}, 2200);
 		// $("#number_4").animateNumber({
 		// 	number: 195		// Change to your number
